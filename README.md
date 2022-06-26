@@ -8,3 +8,8 @@ Objectives:
   Perform Exploratory Data Analysis (EDA)
   
   Visualization THE AUDI used car data by model,transmission,fuelType
+  
+  Applied Linear Regression Model
+  
+  Find Prediction Error of this ML model
+
